@@ -68,7 +68,7 @@ A powerful multi-agent research system built with LangChain that autonomously re
 | Technology | Purpose |
 |-----------|---------|
 | **LangChain** | Multi-agent orchestration and chain management |
-| **Gemini** | Language model for agents and chains |
+| **OpenAI** | Language model for agents and chains |
 | **Streamlit** | Interactive web UI |
 | **Tavily API** | Web search and information retrieval |
 | **BeautifulSoup4** | HTML parsing and content extraction |
